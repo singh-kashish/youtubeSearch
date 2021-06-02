@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "One Monokai",
-    "editor.fontSize": 13
+    "editor.fontSize": 13,
+    "editor.formatOnSave": true
 }
