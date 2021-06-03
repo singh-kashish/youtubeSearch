@@ -4,3 +4,5 @@
 - Uses YouTube Data Api v3
 - Deployed using Firebase
 - Uses React's class based components 
+- Uses Semantic Ui for styling
+- It can be used on mobile devices as well
